@@ -7,7 +7,14 @@
 	padding-left:2%;
 	display:inline-block;
 	color:black;
+	padding-top:2%;
 	}
+	figure{
+		background:red;
+		margin-left:0%;
+	}
+	
+	
 	.mynav a:hover{
 	background:#F29F22;
 	}
