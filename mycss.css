@@ -6,11 +6,9 @@
 	text-decoration:none;
 	padding-left:2%;
 	display:inline-block;
-	color:black;
 	padding-top:2%;
 	}
 	figure{
-		background:red;
 		margin-left:0%;
 	}
 	
@@ -32,6 +30,11 @@
 	.end ul a:hover{
 	background:#F29F22;
 	}
+	p,ul{
+	line-height:1.5;
+	font-size:140%;
+	
+}
 	
 }
 
