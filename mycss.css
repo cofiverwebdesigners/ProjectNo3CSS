@@ -32,9 +32,16 @@
 	}
 	p,ul{
 	line-height:2;
+	}
 	
-	
-}
+	h2,h1,h3{
+	background:#f0f0f0;
+	text-align:center;
+	color:#008000;
+	}
+	nav{
+		background:#c0c0c0;
+	}
 	
 }
 
@@ -96,7 +103,7 @@
 h2{
 	background:#f0f0f0;
 	text-align:center;
-	color:green;
+	color:#008000;
 }
 p,ul{
 	line-height:2;
